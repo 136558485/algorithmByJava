@@ -1,2 +1,2 @@
 # algorithmByJava
-some algorithm
+some algorithms
